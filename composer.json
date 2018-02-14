@@ -1,0 +1,17 @@
+{
+    "name": "acesar/email",
+    "description": "Mail",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alan",
+            "email": "acesarrocha3@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    
+    "phpmailer/phpmailer": "6.0.*"
+        
+    }
+}
